@@ -1,4 +1,4 @@
-# extractive-summarization-project
+# Extractive-summarization
 # TF-IDF Based Text Summarizer
 
 This is a basic extractive text summarization tool built using Python and TF-IDF. It processes a longer piece of text and selects the most relevant sentences to generate a concise summary.
